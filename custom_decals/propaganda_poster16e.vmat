@@ -1,0 +1,10 @@
+// Converted with vmt_to_vmat.py
+
+Layer0
+{
+	shader "vr_complex.vfx"
+
+	TextureColor "materials\custom_decals\propaganda_poster16e_color.tga"
+	F_TRANSLUCENT 1
+	TextureTranslucency "materials\custom_decals\propaganda_poster16e_trans.tga"
+}

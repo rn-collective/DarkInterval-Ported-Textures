@@ -1,0 +1,12 @@
+// Converted with vmt_to_vmat.py
+
+Layer0
+{
+	shader "vr_complex.vfx"
+
+	TextureNormal "materials\blend\_swamp_dirtfloor_blend_reducedgrass_normal.tga"
+	TextureDetail "materials/detail/dirt_detail_03.tga"
+	F_DETAIL_TEXTURE 1
+	g_vDetailTexCoordScale "[1.5 1.5]"
+	g_flDetailBlendFactor "1"
+}

@@ -1,0 +1,13 @@
+// Converted with vmt_to_vmat.py
+
+Layer0
+{
+	shader "vr_complex.vfx"
+
+	TextureColor "materials\blend\blend_dirt-dirt001e_color.tga"
+	TextureNormal "materials\blend\blend_dirt-dirt001e_normal.tga"
+	TextureDetail "materials/detail/gravel_detail_01.tga"
+	F_DETAIL_TEXTURE 1
+	g_vDetailTexCoordScale "[6 6]"
+	g_flDetailBlendFactor "1"
+}

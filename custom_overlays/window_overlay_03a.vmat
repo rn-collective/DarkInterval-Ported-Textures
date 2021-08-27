@@ -1,0 +1,10 @@
+// Converted with vmt_to_vmat.py
+
+Layer0
+{
+	shader "vr_complex.vfx"
+
+	TextureColor "materials\custom_overlays\window_overlay_03a_color.tga"
+	F_ALPHA_TEST 1
+	TextureTranslucency "materials\custom_overlays\window_overlay_03a_trans.tga"
+}

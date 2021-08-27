@@ -1,0 +1,13 @@
+// Converted with vmt_to_vmat.py
+
+Layer0
+{
+	shader "vr_complex.vfx"
+
+	TextureColor "materials\metal\metalwall063a_color.tga"
+	TextureAmbientOcclusion "materials\metal\metalwall063a_ao.tga"
+	g_flAmbientOcclusionDirectSpecular "0.000"
+	TextureDetail "materials/metal\metalwall054a.tga"
+	F_DETAIL_TEXTURE 1
+	g_vDetailTexCoordScale "[2 2]"
+}

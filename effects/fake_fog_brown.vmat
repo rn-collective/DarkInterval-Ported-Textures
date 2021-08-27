@@ -1,0 +1,10 @@
+// Converted with vmt_to_vmat.py
+
+Layer0
+{
+	shader "vr_complex.vfx"
+
+	F_TRANSLUCENT 1
+	TextureTranslucency "materials\effects\fake_fog_brown_trans.tga"
+	g_vColorTint "[0.79 0.85 0.45 0.0]"
+}

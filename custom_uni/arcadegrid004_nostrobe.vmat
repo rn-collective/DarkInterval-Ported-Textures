@@ -1,0 +1,12 @@
+// Converted with vmt_to_vmat.py
+
+Layer0
+{
+	shader "vr_complex.vfx"
+
+	TextureColor "materials\custom_uni\arcadegrid004_nostrobe_color.tga"
+	F_SELF_ILLUM 1
+	TextureSelfIllumMask "materials\custom_uni\arcadegrid004_nostrobe_selfillum.tga"
+	g_vSelfIllumTint "[0.0 3.0 100.0 0.0]"
+	g_vColorTint "[0.0 30.0 100.0 0.0]"
+}

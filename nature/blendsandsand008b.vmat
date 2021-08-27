@@ -1,0 +1,10 @@
+// Converted with vmt_to_vmat.py
+
+Layer0
+{
+	shader "vr_complex.vfx"
+
+	TextureDetail "materials/overlays/macro01a.tga"
+	F_DETAIL_TEXTURE 1
+	g_vDetailTexCoordScale "[.1 .1]"
+}

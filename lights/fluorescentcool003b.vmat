@@ -1,0 +1,11 @@
+// Converted with vmt_to_vmat.py
+
+Layer0
+{
+	shader "vr_complex.vfx"
+
+	TextureColor "materials\lights\fluorescentcool003b_color.tga"
+	F_SELF_ILLUM 1
+	TextureSelfIllumMask "materials\lights\fluorescentcool003b_selfillum.tga"
+	g_vSelfIllumTint "[146.0 146.0 186.0 0.0]"
+}

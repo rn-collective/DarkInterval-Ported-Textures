@@ -1,0 +1,11 @@
+// Converted with vmt_to_vmat.py
+
+Layer0
+{
+	shader "vr_complex.vfx"
+
+	TextureColor "materials\custom_uni\rendertarget_decal_base_color.tga"
+	F_TRANSLUCENT 1
+	F_ADDITIVE_BLEND 1
+	TextureTranslucency "materials\custom_uni\rendertarget_decal_base_trans.tga"
+}

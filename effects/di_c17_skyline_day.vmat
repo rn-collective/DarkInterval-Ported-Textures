@@ -1,0 +1,11 @@
+// Converted with vmt_to_vmat.py
+
+Layer0
+{
+	shader "vr_complex.vfx"
+
+	TextureColor "materials\effects\di_c17_skyline_day_color.tga"
+	F_TRANSLUCENT 1
+	TextureTranslucency "materials\effects\di_c17_skyline_day_trans.tga"
+	g_vColorTint "[100.0 100.0 100.0 0.0]"
+}

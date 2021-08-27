@@ -1,0 +1,10 @@
+// Converted with vmt_to_vmat.py
+
+Layer0
+{
+	shader "vr_complex.vfx"
+
+	F_TRANSLUCENT 1
+	TextureTranslucency "materials\overlays\bootprint_01_trans.tga"
+	g_vColorTint "[1.5 0.75 0.7 0.0]"
+}

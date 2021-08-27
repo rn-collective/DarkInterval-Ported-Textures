@@ -1,0 +1,10 @@
+// Converted with vmt_to_vmat.py
+
+Layer0
+{
+	shader "vr_complex.vfx"
+
+	TextureColor "materials\decals\decalmetalhatch009a_color.tga"
+	F_ALPHA_TEST 1
+	TextureTranslucency "materials\decals\decalmetalhatch009a_trans.tga"
+}

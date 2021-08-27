@@ -1,0 +1,10 @@
+// Converted with vmt_to_vmat.py
+
+Layer0
+{
+	shader "vr_complex.vfx"
+
+	TextureColor "materials\custom_glass\glass_window001_transparent_color.tga"
+	F_TRANSLUCENT 1
+	TextureTranslucency "materials\custom_glass\glass_window001_transparent_trans.tga"
+}

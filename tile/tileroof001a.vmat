@@ -1,0 +1,9 @@
+// Converted with vmt_to_vmat.py
+
+Layer0
+{
+	shader "vr_complex.vfx"
+
+	TextureColor "materials\tile\tileroof001a_color.tga"
+	TextureNormal "materials\tile\tileroof001a_normal.tga"
+}

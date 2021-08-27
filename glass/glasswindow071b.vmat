@@ -1,0 +1,11 @@
+// Converted with vmt_to_vmat.py
+
+Layer0
+{
+	shader "vr_complex.vfx"
+
+	TextureColor "materials\glass\glasswindow071b_color.tga"
+	TextureNormal "materials\glass\glasswindow071b_normal.tga"
+	TextureAmbientOcclusion "materials\glass\glasswindow071b_ao.tga"
+	g_flAmbientOcclusionDirectSpecular "0.000"
+}

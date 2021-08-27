@@ -1,0 +1,9 @@
+// Converted with vmt_to_vmat.py
+
+Layer0
+{
+	shader "vr_complex.vfx"
+
+	TextureColor "materials\plaster\plasterceiling002b_color.tga"
+	TextureNormal "materials\plaster\plasterceiling002b_normal.tga"
+}

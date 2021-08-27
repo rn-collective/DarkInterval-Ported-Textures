@@ -1,0 +1,9 @@
+// Converted with vmt_to_vmat.py
+
+Layer0
+{
+	shader "vr_complex.vfx"
+
+	TextureColor "materials\custom_water\flowmappedwater_sewer_milky_color.tga"
+	TextureNormal "materials\custom_water\flowmappedwater_sewer_milky_normal.tga"
+}

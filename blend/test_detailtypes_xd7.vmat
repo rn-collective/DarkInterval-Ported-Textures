@@ -1,0 +1,9 @@
+// Converted with vmt_to_vmat.py
+
+Layer0
+{
+	shader "vr_complex.vfx"
+
+	TextureColor "materials\blend\test_detailtypes_xd7_color.tga"
+	TextureNormal "materials\blend\test_detailtypes_xd7_normal.tga"
+}

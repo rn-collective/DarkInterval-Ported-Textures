@@ -1,0 +1,15 @@
+// Converted with vmt_to_vmat.py
+
+Layer0
+{
+	shader "vr_complex.vfx"
+
+	TextureColor "materials\effects\di_c17_skyline_night_color.tga"
+	F_ALPHA_TEST 1
+	TextureTranslucency "materials\effects\di_c17_skyline_night_trans.tga"
+	g_vColorTint "[10.0 10.0 10.0 0.0]"
+	TextureDetail "materials/effects/di_c17_skyline_lights.tga"
+	F_DETAIL_TEXTURE 2
+	g_vDetailTexCoordScale "[1 1]"
+	g_flDetailBlendFactor "7.5"
+}

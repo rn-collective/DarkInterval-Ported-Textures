@@ -1,0 +1,9 @@
+// Converted with vmt_to_vmat.py
+
+Layer0
+{
+	shader "vr_complex.vfx"
+
+	TextureColor "materials\skybox\sky_junk01lf_color.tga"
+	g_vColorTint "[0.38 0.36 0.36 0.0]"
+}

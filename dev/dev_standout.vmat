@@ -1,0 +1,9 @@
+// Converted with vmt_to_vmat.py
+
+Layer0
+{
+	shader "vr_complex.vfx"
+
+	TextureColor "materials\dev\dev_standout_color.tga"
+	g_vColorTint "[10.0 10.0 20.0 0.0]"
+}

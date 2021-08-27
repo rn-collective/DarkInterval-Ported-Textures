@@ -1,0 +1,11 @@
+// Converted with vmt_to_vmat.py
+
+Layer0
+{
+	shader "vr_complex.vfx"
+
+	TextureColor "materials\effects\di_citadel_card_color.tga"
+	F_TRANSLUCENT 1
+	TextureTranslucency "materials\effects\di_citadel_card_trans.tga"
+	g_vColorTint "[10.0 10.0 10.0 0.0]"
+}

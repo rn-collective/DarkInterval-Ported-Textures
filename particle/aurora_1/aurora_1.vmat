@@ -1,0 +1,11 @@
+// Converted with vmt_to_vmat.py
+
+Layer0
+{
+	shader "vr_complex.vfx"
+
+	TextureColor "materials\particle\aurora_1\aurora_1_color.tga"
+	F_TRANSLUCENT 1
+	F_ADDITIVE_BLEND 1
+	TextureTranslucency "materials\particle\aurora_1\aurora_1_trans.tga"
+}

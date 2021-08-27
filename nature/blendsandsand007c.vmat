@@ -1,0 +1,11 @@
+// Converted with vmt_to_vmat.py
+
+Layer0
+{
+	shader "vr_complex.vfx"
+
+	TextureColor "materials\nature\blendsandsand007c_color.tga"
+	TextureNormal "materials\nature\blendsandsand007c_normal.tga"
+	TextureAmbientOcclusion "materials\nature\blendsandsand007c_ao.tga"
+	g_flAmbientOcclusionDirectSpecular "0.000"
+}

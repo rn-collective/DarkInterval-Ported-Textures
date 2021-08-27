@@ -1,0 +1,17 @@
+// Converted with vmt_to_vmat.py
+
+Layer0
+{
+	shader "vr_complex.vfx"
+
+	TextureColor "materials\lostcoast\models\props_wasteland\shipwreck_part01_icey_color.tga"
+	TextureNormal "materials\lostcoast\models\props_wasteland\shipwreck_part01_icey_normal.tga"
+	TextureAmbientOcclusion "materials\lostcoast\models\props_wasteland\shipwreck_part01_icey_ao.tga"
+	g_flAmbientOcclusionDirectSpecular "0.000"
+	F_SPECULAR 1
+	TextureRoughness "[0.5665402815013616 0.5665402815013616 0.5665402815013616 0.000]"
+	TextureDetail "materials/detail/metal_detail_01.tga"
+	F_DETAIL_TEXTURE 2
+	g_vDetailTexCoordScale "[4.75 4.75]"
+	g_flDetailBlendFactor ".5"
+}

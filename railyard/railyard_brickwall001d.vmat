@@ -1,0 +1,9 @@
+// Converted with vmt_to_vmat.py
+
+Layer0
+{
+	shader "vr_complex.vfx"
+
+	TextureColor "materials\railyard\railyard_brickwall001d_color.tga"
+	TextureNormal "materials\railyard\railyard_brickwall001d_normal.tga"
+}

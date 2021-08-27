@@ -1,0 +1,9 @@
+// Converted with vmt_to_vmat.py
+
+Layer0
+{
+	shader "vr_complex.vfx"
+
+	TextureColor "materials\concrete\concretewall068c_color.tga"
+	TextureNormal "materials\concrete\concretewall068c_normal.tga"
+}

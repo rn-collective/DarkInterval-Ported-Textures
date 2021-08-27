@@ -1,0 +1,12 @@
+// Converted with vmt_to_vmat.py
+
+Layer0
+{
+	shader "vr_complex.vfx"
+
+	TextureColor "materials\brick\brickwall028a_color.tga"
+	// $ssbump in original .vmt used, which are unsupported in Source 2. Normal maps skipped to retain visual quality.
+	TextureDetail "materials/detail/concrete_detail_03.tga"
+	F_DETAIL_TEXTURE 1
+	g_vDetailTexCoordScale "[8 8]"
+}

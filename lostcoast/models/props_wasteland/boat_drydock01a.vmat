@@ -1,0 +1,15 @@
+// Converted with vmt_to_vmat.py
+
+Layer0
+{
+	shader "vr_complex.vfx"
+
+	TextureColor "materials\lostcoast\models\props_wasteland\boat_drydock01a_color.tga"
+	TextureNormal "materials\lostcoast\models\props_wasteland\boat_drydock01a_normal.tga"
+	TextureAmbientOcclusion "materials\lostcoast\models\props_wasteland\boat_drydock01a_ao.tga"
+	g_flAmbientOcclusionDirectSpecular "0.000"
+	TextureDetail "materials/detail/concrete_detail_03.tga"
+	F_DETAIL_TEXTURE 1
+	g_vDetailTexCoordScale "[15.75 15.75]"
+	g_flDetailBlendFactor ".85"
+}
